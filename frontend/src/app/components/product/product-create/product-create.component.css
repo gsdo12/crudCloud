@@ -1,0 +1,28 @@
+
+::-webkit-input-placeholder { 
+    color: gray;
+  }
+  #name{
+      border-radius: 8px;
+      height: 20px;
+      border-style: initial;
+      font-size: 16px;
+  }
+  #price{
+    border-radius: 8px;
+    height: 20px;
+    border-style: initial;
+    font-size: 16px;
+    
+}
+#button1{
+    margin-top: 15px;
+}
+#button2{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}

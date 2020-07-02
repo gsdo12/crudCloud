@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+    
+}
+i.edit{
+    color:lime;
+    margin-right: 10px;
+}
+i.delete{
+    color: red;
+}

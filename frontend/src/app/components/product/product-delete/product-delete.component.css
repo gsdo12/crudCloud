@@ -1,0 +1,20 @@
+::-webkit-input-placeholder { 
+    color: black;
+  }
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border-radius: 8px;
+    height: 20px;
+    border-style: initial;
+    font-size: 16px;
+    background-color: white;
+    
+}
+
+#button1{
+    margin-right: 10px;
+    margin-top: 15px;
+}
